@@ -2,10 +2,15 @@ RippleAdder is the main directory containing project files and JAVA is used for 
 The output release shared lib is in JAR format (Found in RippleAdder/out/artifacts/RippleAdder_jar/RippleAdder.jar)
 
 Build environment used:
+
 JDK : jdk1.8.0_102
+
 JRE : jre1.8.0_152
+
 Junit : junit-4.12
+
 IDE used : IntelliJ
+
 Shared lib format: jar
 
 Project structure:
